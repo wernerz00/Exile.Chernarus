@@ -1,0 +1,1 @@
+[] execVM "scripts\playerMarker.sqf"; 
